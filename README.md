@@ -30,7 +30,7 @@ The current implementation provides a web-based interface for interacting with t
 
 Experience the Holographic Neural Network in action:
 
-[![Open in v0.dev](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThekLn5dFXm6sKrFe7SRgELQspSJzxhJOlKg&s)](https://v0.dev/chat/OLxMRBZyZmW?b=b_eVXRcG1LiaH)
+[![Open in v0.dev](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThekLn5dFXm6sKrFe7SRgELQspSJzxhJOlKg&s)](https://v0.dev/chat/joqRyLQLFCZ?b=b_NKysjL6vUa1)
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/sb1-dewkge?file=README.md) 
 
