@@ -25,6 +25,16 @@ The current implementation provides a web-based interface for interacting with t
 2. **Word Processing**: The system can process words, encoding them into the neural-optical state and producing output based on the emergent properties of the simulation.
 3. **Visualization**: A real-time visualization of the neural-optical state is provided, offering insights into the processing mechanism.
 
+
+## Quick Start
+
+Experience the Holographic Neural Network in action:
+
+[![Open in v0.dev](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThekLn5dFXm6sKrFe7SRgELQspSJzxhJOlKg&s)](https://v0.dev/chat/OLxMRBZyZmW?b=b_eVXRcG1LiaH)
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/edit/sb1-dewkge?file=README.md) 
+
+
 ## Usage
 
 To use the High Capacity Light-Based Neural Processor:
